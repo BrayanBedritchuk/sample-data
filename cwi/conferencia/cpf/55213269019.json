@@ -32,6 +32,7 @@
                     "quantidade": 2,
                     "valorVenda": 99.8,
                     "valorDesconto": 0,
+					"tamanho": "M",
                     "thumbnail": null,
                     "mediumImage": null,
                     "largeImage": null
@@ -44,6 +45,7 @@
                     "quantidade": 1,
                     "valorVenda": 49.9,
                     "valorDesconto": 0,
+					"tamanho": "G",
                     "thumbnail": null,
                     "mediumImage": null,
                     "largeImage": null
@@ -56,6 +58,7 @@
                     "quantidade": 2,
                     "valorVenda": 479.6,
                     "valorDesconto": 0,
+					"tamanho": "P",
                     "thumbnail": null,
                     "mediumImage": null,
                     "largeImage": null
