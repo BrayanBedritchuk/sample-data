@@ -8,8 +8,8 @@
             "codigoLoja": 2,
             "canal": "PF-SELFPAYMENT",
             "nsu": "912177086",
-            "nome": "Cliente lezxKIg VNHSks",
-            "cpf": "55213269019",
+            "nome": "Brayan Bedritchuk",
+            "cpf": "00000000001",
             "chaveNfe": "57668278775401204057291401910601588760564618",
             "valorTotal": 572.66,
             "valorDesconto": 56.64,
@@ -32,6 +32,7 @@
                     "quantidade": 2,
                     "valorVenda": 99.8,
                     "valorDesconto": 0,
+					"tamanho": "M",
                     "thumbnail": null,
                     "mediumImage": null,
                     "largeImage": null
