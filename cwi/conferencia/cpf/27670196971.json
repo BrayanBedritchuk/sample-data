@@ -33,6 +33,7 @@
                     "valorVenda": 99.8,
                     "valorDesconto": 0,
 					"tamanho": "M",
+					"cor": "Branca",
                     "thumbnail": "https://raw.githubusercontent.com/BrayanBedritchuk/sample-data/master/cwi/conferencia/imagem/541073026.jpg",
                     "mediumImage": null,
                     "largeImage": null
@@ -46,6 +47,7 @@
                     "valorVenda": 49.9,
                     "valorDesconto": 0,
 					"tamanho": "G",
+					"cor": "Azul",
                     "thumbnail": "https://raw.githubusercontent.com/BrayanBedritchuk/sample-data/master/cwi/conferencia/imagem/541073027.jpg",
                     "mediumImage": null,
                     "largeImage": null
@@ -59,6 +61,7 @@
                     "valorVenda": 479.6,
                     "valorDesconto": 0,
 					"tamanho": "P",
+					"cor": "Preta",
                     "thumbnail": "https://raw.githubusercontent.com/BrayanBedritchuk/sample-data/master/cwi/conferencia/imagem/541073028.jpg",
                     "mediumImage": null,
                     "largeImage": null
@@ -72,6 +75,7 @@
                     "valorVenda": 479.6,
                     "valorDesconto": 0,
 					"tamanho": "P",
+					"cor": "Vermelha",
                     "thumbnail": "https://raw.githubusercontent.com/BrayanBedritchuk/sample-data/master/cwi/conferencia/imagem/541073029.jpg",
                     "mediumImage": null,
                     "largeImage": null
